@@ -69,7 +69,7 @@ Contains:
 - **Reason for Buying Fish by Education Level** ![Reason for Buying fish by Educatino Level](https://github.com/Junaid-Khan199/-Fish-Market-Consumer-Behavior-Analysis/blob/e0acbfcf3ed3896ebcfa7e51063e3666f493bd38/Screenshoots/Reason%20for%20Buying%20Fish%20by%20Education%20Level.png) 
 - **Fish Size Preference by Household Type**   ![Fish Size Preference by Household Type](https://github.com/Junaid-Khan199/-Fish-Market-Consumer-Behavior-Analysis/blob/422c6180903e7a8534b1e81b19913bf50f0b08da/Screenshoots/Fish%20Size%20Purchased%20By%20Household%20Type.png)
 - **Fish Type Preference by Age Group**  ![Fish Type Preference by Age Group](https://github.com/Junaid-Khan199/-Fish-Market-Consumer-Behavior-Analysis/blob/22f24beb87e31690a4205d9febc0e2460821548c/Screenshoots/Fish%20Type%20Preference%20by%20Age%20Group.png) 
-- **Results Snapshot Table**  ![Results Snapshot Table]()
+- **Results Snapshot Table**  ![Results Snapshot Table](https://github.com/Junaid-Khan199/-Fish-Market-Consumer-Behavior-Analysis/blob/928f4edc56811fcd4a1d7370a77b7db6702febc5/Screenshoots/Results%20Snapshot%20Table.png)
 
 
 ---
