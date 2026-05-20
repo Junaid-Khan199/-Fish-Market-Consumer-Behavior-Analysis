@@ -109,3 +109,6 @@ Python | Data Analysis | Research Automation | Statistical Testing | Visualizati
 
 ## ⭐ Support
 If you find this project helpful, consider giving it a ⭐ to support my work.
+
+This project is part of my ongoing journey in data analytics and research automation.
+Every dataset tells a story — this one reveals how consumer behavior can be understood through data.
